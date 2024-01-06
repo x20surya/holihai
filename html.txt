@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1> <b>How to learn HTML step by step</b></h1> <br>
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width ="240" height="240">
+    </a>
+    <h3>
+        <b>Step 1 :</b>
+    </h3>
+    <br>
+   <h5> Click on this link <a href = "https://www.codechef.com/dashboard" target="_blanck">here.</a> </h5>
+   <br>
+   <h3>
+       Step 3 :
+   </h3>
+   <h5>
+       That is enough.
+   </h5>
+</body>
+</html>
